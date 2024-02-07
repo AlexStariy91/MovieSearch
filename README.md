@@ -1,5 +1,6 @@
 # Movie Search App
 Simple iOS application that allows users to search for movies using an open [API OMDB](http://www.omdbapi.com). Users can browse through a collection of movies, view details about films, and save their selections to favorites.
+
 <img src="https://github.com/AlexStariy91/MovieSearch/assets/133584636/87b6598c-e712-41e7-89a4-eb9408b18cfe" width="232" height="480" /> <img src="https://github.com/AlexStariy91/MovieSearch/assets/133584636/c3259db8-74d1-46b9-9bd8-1d53821d38d7" width="232" height="480" /> <img src="https://github.com/AlexStariy91/MovieSearch/assets/133584636/47918aa4-32e5-4c4a-98dc-aaa7eb83c632" width="232" height="480" />
 <img src="https://github.com/AlexStariy91/MovieSearch/assets/133584636/e08a8137-ea1b-4bbf-85fd-f7961b3b65bd" width="232" height="480" /> ![MovieSearchGif](https://github.com/AlexStariy91/MovieSearch/assets/133584636/5c54d6e8-c5b5-4091-8f64-35610082afa8)
 
